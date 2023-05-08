@@ -3,7 +3,7 @@ import "./styles/fonts.css";
 function App() {
   return (
     <>
-      <h1>hi wolrd</h1>
+      <h1>hi world</h1>
     </>
   );
 }
