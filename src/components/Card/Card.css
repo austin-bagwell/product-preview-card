@@ -1,0 +1,6 @@
+.summary-card {
+  display: flex;
+  border-radius: 10px;
+  width: 600px;
+  background-color: var(--color-neutral-white);
+}
