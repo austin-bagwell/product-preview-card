@@ -1,0 +1,27 @@
+.add-to-cart-btn {
+  background-color: var(--color-primary-cyan);
+  border: none;
+  border-radius: 10px;
+  height: 4rem;
+  width: 99%;
+  margin-top: 0.25rem;
+}
+
+.btn-content-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.cart-icon {
+  height: 1.25rem;
+  width: auto;
+  margin-right: 1rem;
+}
+
+.button-message {
+  font-family: Montserrat;
+  font-weight: 700;
+  font-size: 1rem;
+  color: var(--color-neutral-white);
+}
