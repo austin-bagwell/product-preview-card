@@ -50,3 +50,10 @@
   color: var(--color-neutral-gray-blue);
   text-decoration: line-through;
 }
+
+@media (max-width: 375px) {
+  .copy-wrapper {
+    max-width: 100%;
+    padding-top: 0.25rem;
+  }
+}

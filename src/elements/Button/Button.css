@@ -25,3 +25,9 @@
   font-size: 1rem;
   color: var(--color-neutral-white);
 }
+
+@media (max-width: 375px) {
+  .add-to-cart-btn {
+    width: 99%;
+  }
+}

@@ -4,3 +4,13 @@
   width: 600px;
   background-color: var(--color-neutral-white);
 }
+
+@media (max-width: 375px) {
+  .summary-card {
+    width: 350px;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    margin: 1rem 0;
+  }
+}
